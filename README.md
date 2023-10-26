@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IE2-Triangle
 Template code for the In-Class Exercise 2 on Unit Testing, an exercise that focuses on unit testing and
 test effectiveness, using code coverage and mutation analysis.
@@ -93,3 +94,7 @@ Link to the Graphviz download: https://graphviz.org/download/
 3. If you have installed it, then the default command is:
 ```py2cfg isTriangle.py```. You should find a generated SVG file in the same directory.
 4. In a web brower, open the generated SVG file to visualize the CFG.
+=======
+# ex2compsci520
+EX2
+>>>>>>> 38d10d35a312f397332e3b5471c0cf8db10b0c0f
