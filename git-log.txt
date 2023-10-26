@@ -1,0 +1,26 @@
+commit 612b84ae3f5d3ebbc65974ed8b3101f95c0649b7
+Author: vaishnavirshah <vaishnavirahulshah@gmail.com>
+Date:   Thu Oct 26 19:09:39 2023 -0400
+
+    added cfg figures file
+
+commit b3963c7f545ba768bd8ac5830de340db1122a610
+Merge: 6744589 38d10d3
+Author: shreyabirthare <shreyabirthare16@gmail.com>
+Date:   Thu Oct 26 16:09:08 2023 -0400
+
+    Merge branch 'main' of https://github.com/shreyabirthare/ex2compsci520
+
+commit 6744589815aef5689609c53579d0a2a68dc7e59b
+Author: shreyabirthare <shreyabirthare16@gmail.com>
+Date:   Thu Oct 26 16:04:29 2023 -0400
+
+    In class Exercise 2
+    
+    Added 3 test suite files for testing and other relevant log files
+
+commit 38d10d35a312f397332e3b5471c0cf8db10b0c0f
+Author: shreyabirthare <36160468+shreyabirthare@users.noreply.github.com>
+Date:   Thu Oct 26 16:01:35 2023 -0400
+
+    Initial commit
